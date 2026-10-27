@@ -1,5 +1,4 @@
 # Smart India Hackathon Workshop
-# Date: 27-10-2026
 ## Register Number: 212224040312
 ## Name: A. Sherwin Infano
 
